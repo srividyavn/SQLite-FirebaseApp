@@ -1,42 +1,42 @@
 {
   "project_info": {
-    "project_number": "845453600929",
-    "firebase_url": "https://fir-project-144ef.firebaseio.com",
-    "project_id": "fir-project-144ef",
-    "storage_bucket": "fir-project-144ef.appspot.com"
+    "project_number": "84",
+    "firebase_url": "",
+    "project_id": "f",
+    "storage_bucket": ""
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:845453600929:android:f6650fabb4e89d37",
+        "mobilesdk_app_id": "d37",
         "android_client_info": {
           "package_name": "umkc.edu.srividya"
         }
       },
       "oauth_client": [
         {
-          "client_id": "845453600929-ti09qe17m2nn4s1snapua0b5dttgi2sp.apps.googleusercontent.com",
+          "client_id": "8t.com",
           "client_type": 1,
           "android_info": {
             "package_name": "umkc.edu.srividya",
-            "certificate_hash": "711ffcfb8f0744e2200993f1b898c3b1115fde0d"
+            "certificate_hash": "711de0d"
           }
         },
         {
-          "client_id": "845453600929-i0q9hpob7dr5011nofljjgr2408bm7lq.apps.googleusercontent.com",
+          "client_id": "84.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyA5a9E17gE0skF4DBcs5UpcdfsFIGsMTtk"
+          "current_key": "AIztk"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "845453600929-i0q9hpob7dr5011nofljjgr2408bm7lq.apps.googleusercontent.com",
+              "client_id": "845453om",
               "client_type": 3
             }
           ]
