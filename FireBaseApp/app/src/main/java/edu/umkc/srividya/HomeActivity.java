@@ -85,9 +85,9 @@ public class HomeActivity extends AppCompatActivity {
 
         mAuth = FirebaseAuth.getInstance();
 
-        //KeyFactory FirebaseStorage = null;
+        
 
-        //"gs://fir-project-144ef.appspot.com/"
+        
 
         try {
             mStorageRef = FirebaseStorage.getInstance().getReference();
@@ -96,12 +96,12 @@ public class HomeActivity extends AppCompatActivity {
         }
 
 
-        //mStorageReference = FirebaseStorage.getInstance("gs://fir-project-144ef.appspot.com/");
+        //mStorageReference = FirebaseStorage.getInstance("firebase Storage path");
 
         FirebaseDatabase database = FirebaseDatabase.getInstance();
-        database.getReference("https://fir-project-144ef.firebaseio.com/");
+        database.getReference("https://firebase DB path");
 
-        //mFirebaseInstance = FirebaseDatabase.getInstance("https://fir-project-144ef.firebaseio.com/");
+       
 
         // get reference to 'users' node
         mFirebaseDatabase = mFirebaseInstance.getReference("users");
